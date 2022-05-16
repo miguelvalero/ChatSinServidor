@@ -1,0 +1,56 @@
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MQTTnet.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\MQTTnet.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\WindowsFormsApp1 - còpia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\MQTTnet.dll
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.pdb
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\RPAS\EDICION2021\PracticaTransversal\MQTT\VisualC#\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.dll
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\MQTTnet.dll
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\bin\Debug\M2Mqtt.Net.pdb
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Julio2018\Docencia\SO\Premios\Mosquitto\ProtocoloInvitacion\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
