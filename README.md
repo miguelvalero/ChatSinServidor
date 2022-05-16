@@ -5,9 +5,9 @@ Ahora es el momento de aprender esa sorprendente alternativa, que se explica en 
       
 ## Un servidor especial
 Imagina que existe un servidor que permite a cualquier cliente realizar las siguientes peticiones:         
-'''           
+```           
 subscribeme (“Deportes”)    
-'''
+```
 Le pide al servidor que le envíe una notificación con cualquier información que se publique sobre el tema “Deportes” (o cualquier tema que se indique). El cliente podría subscribirse a todos los temas que quiera.           
                
 Publica (“Deportes”, “El Barça subcampeón”)            
