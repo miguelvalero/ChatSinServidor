@@ -6,44 +6,45 @@ Ahora es el momento de aprender esa sorprendente alternativa, que se explica en 
 ## Un servidor especial
 Imagina que existe un servidor que permite a cualquier cliente realizar las siguientes peticiones:         
 ```           
-subscribeme (“Deportes”)    
+Subscribeme (“Deportes”)    
 ```
 Le pide al servidor que le envíe una notificación con cualquier información que se publique sobre el tema “Deportes” (o cualquier tema que se indique). El cliente podría subscribirse a todos los temas que quiera.           
-               
-Publica (“Deportes”, “El Barça subcampeón”)            
+```               
+Publica (“Deportes”, “El Barça subcampeón”)
+```
 Le pide al servidor que envíe la noticia a todos los clientes que se han subscrito al tema “Deportes”.            
-
+```
 EliminaSubscripción (“Deportes”)        
+```
 Indica al servidor que no le envíe más noticias sobre el tema “Deportes”.         
       
 Imagina también que tenemos la siguiente función:     
-           
+```
 ParaProcesarNotificacionesIrA (función)      
-             
+```             
 De esta manera, el cliente le dice al Sistema Operativo qué función debe ejecutar cada vez que llega una notificación del servidor (sea del tema que sea).
 Seguro que no te cuesta mucho imaginar un servidor que pueda prestar estos servicios. De hecho, un servidor así apareció en un examen de conocimientos básicos, con el enunciado que puedes encontrar aquí.     
          
 Con un servidor tan sencillo puedes implementar ya una pequeña aplicación de chat. Si María quiere chatear con Juan solo tiene que ejecutar la operación:
+```
 Subscribeme (“Juan”).      
-     
-     
+```       
 Naturalmente “Juan” debe hacer:      
-
+```
 Subscribeme (“Maria”)     
-    
+```    
 A partir de ese momento, cuando Maria quiera enviar un mensaje a Juan hará:     
-      
+```      
 Publica (“Juan”, “Hola Juan”)      
-      
+```      
 El cliente de Juan recibirá una notificación y el Sistema Operativo le enviará a la función que se le haya indicado para tratar notificaciones. Allí puede mostrar el mensaje de Maria en un cuadro de texto y enviarle una respuesta haciendo:     
-      
+```      
 Publica (“Maria”, “Hola Maria”)      
-      
+```      
 Y así hasta que quieran terminar la conversación, momento en el que ejecutarán la operación EliminaSubscripcion.      
       
 ## El protocolo MQTT
-Un sencillo servidor de subscripciones y publicaciones es en realidad una herramienta muy potente y útil. Tanto que se ha definido un protocolo de aplicación para trabajar en ese modo. El protocolo se denomina MQTT (Message Queuing Telemetry Transport). Puedes encontrar más información aquí:    
-https://www.paessler.com/it-explained/mqtt     
+Un sencillo servidor de subscripciones y publicaciones es en realidad una herramienta muy potente y útil. Tanto que se ha definido un protocolo de aplicación para trabajar en ese modo. El protocolo se denomina MQTT (Message Queuing Telemetry Transport). Puedes encontrar más información aquí: https://www.paessler.com/it-explained/mqtt     
 
 Y naturalmente se han desarrollado servidores que implementan este protocolo. El más usado de ellos se llama Mosquitto (te costará poco encontrar más información sobre ese producto).      
     
