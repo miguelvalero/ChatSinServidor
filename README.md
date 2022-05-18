@@ -23,7 +23,7 @@ Imagina también que tenemos la siguiente función:
 ParaProcesarNotificacionesIrA (función)      
 ```             
 De esta manera, el cliente le dice al Sistema Operativo qué función debe ejecutar cada vez que llega una notificación del servidor (sea del tema que sea).
-Seguro que no te cuesta mucho imaginar un servidor que pueda prestar estos servicios. De hecho, un servidor así apareció en un examen de conocimientos básicos, con el enunciado que puedes encontrar aquí.     
+Seguro que no te cuesta mucho imaginar un servidor que pueda prestar estos servicios. De hecho, un servidor así apareció en un examen de conocimientos básicos, con el enunciado he incluido en este repositorio.
          
 Con un servidor tan sencillo puedes implementar ya una pequeña aplicación de chat. Si María quiere chatear con Juan solo tiene que ejecutar la operación:
 ```
