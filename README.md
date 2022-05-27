@@ -48,7 +48,7 @@ Un sencillo servidor de subscripciones y publicaciones es en realidad una herram
 
 Y naturalmente se han desarrollado servidores que implementan este protocolo. El más usado de ellos se llama Mosquitto (te costará poco encontrar más información sobre ese producto).      
     
-Los servidores que implementan el protocolo MQTT suelen denominarse brokers. El bróker Mosquitto tiene ese nombre para proyectar la idea de que es un programa muy sencillo y ligero que puede instalarse en procesadores con muy pocos recursos (capacidad de procesador o memoria). Es por tanto ideal para comunicar dispositivos sencillos conectados a internet (por ejemplo, conectar el reloj de pulsera con la nevera y con la lavadora). Es protocolo MQTT es, por tanto, una pieza clave en el mundo del Internet de las Cosas (IOT).     
+Los servidores que implementan el protocolo MQTT suelen denominarse brokers. El bróker Mosquitto tiene ese nombre para proyectar la idea de que es un programa muy sencillo y ligero que puede instalarse en procesadores con muy pocos recursos (capacidad de procesador y/o memoria). Es por tanto ideal para comunicar dispositivos sencillos conectados a internet (por ejemplo, conectar el reloj de pulsera con la nevera y con la lavadora). El protocolo MQTT es, por tanto, una pieza clave en el mundo del Internet de las Cosas (IOT).     
             
 Pero ahora quizá te interese Mosquitto para substituir a vuestro servidor de juego. La pista ya la tienes en el ejemplo del chat. Si dos clientes pueden chatear a través del bróker entonces podrán intercambiara también los movimientos de la partida.     
            
@@ -57,7 +57,7 @@ Naturalmente, la cosa es algo más complicada. ¿Cómo mantiene el cliente una l
 ## Un chat sin servidor
 El código que encontrarás en este repositorio es un formulario en Windows Forms que implementa un chat multijugador (pero no multipartida). El código implementa el mantenimiento de la lista de conectados y el protocolo de invitación de manera que cada cliente ve actualizarse automáticamente la lista de conectados y puede seleccionar a las personas con las que quiere chatear. Allí encontrarás cómo se hacen las operaciones de subscripción y publicación en C#.     
       
-También verás una cosa interesante. El código usa un bróker público que implementa MQTT. Así que ni siquiera hace falta que te instales en tu ordenador un bróker mosquitto (aunque puede ser interesante que lo hagas, siguiendo cualquiera de los múltiples tutoriales que hay sobre el tema).      
+También verás una cosa interesante. El código usa un bróker público que implementa MQTT. Así que ni siquiera hace falta que te instales en tu ordenador un bróker Mosquitto (aunque puede ser interesante que lo hagas, siguiendo cualquiera de los múltiples tutoriales que hay sobre el tema).      
      
 Pues ahí tienes la base de un juego de chat sin escribir ni una sola línea de código de servidor. A partir de ahí no te costará mucho completar el formulario para añadir los gráficos y las mecánicas de vuestro juego porque, como te digo, si el formulario puede intercambiar mensajes de chat con los otros jugadores, también podrá intercambiar jugadas de vuestro juego.     
      
